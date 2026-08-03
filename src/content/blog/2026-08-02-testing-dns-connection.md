@@ -7,4 +7,7 @@ featured: true
 draft: false
 description: A test to make sure the DNS is propagating to square
 ---
-Today I am testing to make sure this is working
+Today I am testing to make sure this is working 
+
+![](/astropaper-og.jpg)
+
